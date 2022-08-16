@@ -11,13 +11,20 @@ div{
     width: 1253px;
     height: 1736px; */
     width: 300px;
-    padding: 50px;
+    padding: 70px;
     margin: 20px;
+    border-color: black;
+    border-radius: 4px;
+    margin: 10px 10px
 }
 button{
     background-color: #10B981;
     color: white;
+    border-radius: 8px;
+    padding: 10px 20px
+    margin: 10px
 }
 h2{
     color: white;
+    font-size: medium;
 }
