@@ -1,7 +1,8 @@
 *{
     @font-face {
-        font-family: myFont;
-        src: url(https://fonts.google.com/specimen/Rubik);
+        font-family: 'EB Garamond', serif;
+        font-family: 'Edu QLD Beginner', cursive;
+        font-family: 'Source Sans Pro', sans-serif;
         
 }
 }
@@ -21,7 +22,7 @@ button{
     background-color: #10B981;
     color: white;
     border-radius: 8px;
-    padding: 10px 20px
+    padding: 30px 20px
     margin: 10px
 }
 h2{
