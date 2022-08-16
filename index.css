@@ -8,22 +8,20 @@
 }
 div{
     background-color: #273549;
-    /* position: absolute;
-    width: 1253px;
-    height: 1736px; */
     width: 300px;
     padding: 70px;
     margin: 20px;
     border-color: black;
-    border-radius: 4px;
+    border-radius: 8px;
     margin: 10px 10px
 }
 button{
     background-color: #10B981;
     color: white;
     border-radius: 8px;
-    padding: 30px 20px
-    margin: 10px
+    padding: 10px 20px;
+    margin: 0px;
+    cursor: pointer
 }
 h2{
     color: white;
