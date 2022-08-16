@@ -1,0 +1,23 @@
+*{
+    @font-face {
+        font-family: myFont;
+        src: url(https://fonts.google.com/specimen/Rubik);
+        
+}
+}
+div{
+    background-color: #273549;
+    /* position: absolute;
+    width: 1253px;
+    height: 1736px; */
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+button{
+    background-color: #10B981;
+    color: white;
+}
+h2{
+    color: white;
+}
