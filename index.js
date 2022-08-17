@@ -3,4 +3,16 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O",
 
 let passwordLength = 12
 
-function
+function getRandomCharacter(){
+    let randomChar = Math.floor(Math.random() * characters.length)
+    return characters[randomChar]
+    // console.log(randomChar)
+}
+
+function generateRandomPassword(){
+    let randomPassword = " "
+    for (let i = 0; i < passwordLength; i++){
+        randomPassword += getRandomCharacter()
+    }
+    return randomPassword
+}
