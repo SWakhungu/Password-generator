@@ -1,12 +1,12 @@
 *{
-    @font-face {
+    /* @font-face {
         font-family: 'EB Garamond', serif;
         font-family: 'Edu QLD Beginner', cursive;
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif; */
         
 }
-}
-div{
+
+.pwd{
     background-color: #273549;
     width: 300px;
     padding: 70px;
@@ -39,7 +39,7 @@ h2{
     margin: 0 auto;
     margin-top: 30px;
     border-style: solid;
-    padding: 13px 20px;
+    padding: 13px 13px;
     border-width: px;
     border-color: black;
 }
