@@ -10,7 +10,7 @@ JavaScript
 Clone the project to your local, navigate to the required files as appropriate, then use your preferred code editor to work on the app.Practice good version control like the good developer that you are.
 
 # Live link
-[] (https://swakhungu.github.io//)
+(https://stirring-fairy-a47524.netlify.app/)
 
 # Support
 Could I have done better? Can you add to the functionality of the app? Reach me on my personal email: stwakhungu@gmail.com.
