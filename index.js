@@ -6,7 +6,6 @@ let passwordLength = 12
 function getRandomCharacter(){
     let randomChar = Math.floor(Math.random() * characters.length)
     return characters[randomChar]
-    // console.log(randomChar)
 }
 
 function generateRandomPassword(){
@@ -16,3 +15,8 @@ function generateRandomPassword(){
     }
     return randomPassword
 }
+
+const generatedPasswordOne = generateRandomPassword()
+console.log("Here is a random password: ", generatedPasswordOne)
+const generatedPasswordTwo = generateRandomPassword()
+console.log("Your random password is: ", generatedPasswordTwo)
