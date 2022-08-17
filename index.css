@@ -33,3 +33,11 @@ h2{
     color: white;
     font-size: medium;
 }
+.btn{
+    background-color:#273549;
+    display: inline-block;
+    margin-top: 30px;
+    border-top-style: solid;
+    border-width: px;
+    border-color: black;
+}
